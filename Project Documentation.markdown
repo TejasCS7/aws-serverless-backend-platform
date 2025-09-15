@@ -110,7 +110,7 @@ multi-source-data-sea/
 
 ## 🛠️ Technologies Used
 
-- **AWS Services**: S3, Kinesis Data Streams, Lambda, Glue, Step Functions, EventBridge, IAM.  
+- **AWS Services**: S3, Kinesis Data Streams, Lambda, Glue, Step Functions, IAM.  
 - **Programming**: Python 3.10 (Lambda functions), PySpark (Glue ETL).  
 - **Data Formats**: CSV, JSON, Parquet.  
 - **Storage**: S3 buckets with lifecycle policies for cost optimization.
