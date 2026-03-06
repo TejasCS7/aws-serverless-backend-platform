@@ -2,10 +2,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Native-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-ETL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Architecture-Serverless-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
-![Throughput](https://img.shields.io/badge/Throughput-1.2M_records%2Fmin-blue?style=for-the-badge)
 
 > A production-grade, serverless backend platform built entirely on AWS — featuring event-driven microservices, real-time stream processing, automated workflow orchestration, and parallel distributed compute. Engineered for high throughput, fault tolerance, and zero-ops scalability.
 
