@@ -62,7 +62,7 @@ The platform follows a layered, event-driven microservices pattern:
                          │  Event Streams (Kinesis)
           ┌──────────────┴──────────────┐
           ▼                             ▼
-┌─────────────────────┐     ┌───────────────────────┐
+┌─────────────────────┐     ┌────────────────────────┐
 │  PROCESSING LAYER   │     │   PROCESSING LAYER     │
 │  manufacturing-     │     │   ecommerce-           │
 │  data-processor     │     │   data-processor       │
