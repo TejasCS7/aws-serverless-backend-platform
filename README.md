@@ -32,7 +32,7 @@ This project is a **fully serverless, event-driven backend system** built on AWS
 
 Rather than a traditional monolithic backend, the system is structured as a collection of **independent, loosely coupled microservices** — each owning a single responsibility, communicating through event streams, and orchestrated by a centralized workflow engine. The entire platform is **auto-scaling, cost-optimized, and requires zero server management**.
 
-### What makes this a software engineering project?
+### System Design at a Glance
 
 | Concern | How It's Solved |
 |---|---|
